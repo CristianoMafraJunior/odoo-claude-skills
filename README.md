@@ -74,8 +74,8 @@ name or CLI flag is quoted, it's quoted because it's real.
 | [`odoo-module-review`](skills/odoo-module-review/SKILL.md) | Review a PR/branch/diff against OCA conventions — commit-tag shape, PR title, and a delegation table to the right skill above for each part of the diff. |
 | [`odoo-pr-contribution`](skills/odoo-pr-contribution/SKILL.md) | Prepare and submit a PR to an OCA repo: fork/branch naming, commit shaping, PR description, and what each CI/bot check (Runboat, Weblate, Codecov, pre-commit.ci) actually means. |
 
-All ten skills cover **Odoo 14.0 through 19.0** and call out version-specific
-behavior explicitly wherever it applies.
+All skills in this pack cover **Odoo 14.0 through 19.0** and call out
+version-specific behavior explicitly wherever it applies.
 
 ## Installing
 
